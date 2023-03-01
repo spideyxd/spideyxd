@@ -19,7 +19,7 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/](https://api.memegen.link/images/buzz/memes/memes_everywhere.gif" width="512px"/>
-
+![](https://random-memer.herokuapp.com/](https://api.memegen.link/images/buzz/memes/memes_everywhere.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=spideyxd&icon=0&color=0)](https://visitcount.itsvg.in)
 
