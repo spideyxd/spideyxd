@@ -1,7 +1,7 @@
  # Hi there 👋
 
 # 💫 About Me:
-👨‍💻 I am a Web Developer <br>💻 Uses the power of MERN stack <br>🎓 Currently in 3rd Year , BTECH (IT)<br>👨‍💻 Also a C++ Programmer<br>💼 Looking for remote Internship opportunities<br>💫Fun fact : "I am lazy but smart ."<br>
+👨‍💻 I am a Web Developer <br>💻 Uses the power of MERN stack <br>🎓 Currently in 4th Year , BTECH (IT)<br>👨‍💻 Also a C++ Programmer<br>💼 Looking for remote Internship opportunities<br>💫Fun fact : "I am lazy but smart ."<br>
 
 
 ## 🌐 Socials:
